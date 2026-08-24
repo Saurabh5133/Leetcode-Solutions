@@ -1,0 +1,38 @@
+class Solution {
+public:
+    string smallestSubsequence(string s) {
+        
+        int n = s.length();
+        vector<int> lastIdx(26,0);
+        vector<bool> taken(26,false);
+
+        // stack<char> st;
+
+        for(int i = 0; i<n; i++)
+        {
+            lastIdx[s[i]-'a'] = i;
+        }
+
+        string result = "";
+
+        for(int i = 0; i<n; i++)
+        {
+            char ch = s[i];
+
+            if(taken[ch-'a'] == true)
+                continue;
+
+            while(result.length() > 0 && result.back() > ch && lastIdx[result.back() - 'a'] > i)
+            {
+                taken[result.back()-'a'] = false;
+                result.pop_back();
+                
+            }
+            
+            result += ch;
+            taken[ch-'a'] = true;
+        }
+
+        return result;
+    }
+};
