@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2293-min-max-game](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/2293-min-max-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -28,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+## Simulation
+|  |
+| ------- |
+| [2293-min-max-game](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/2293-min-max-game) |
 <!---LeetCode Topics End-->
