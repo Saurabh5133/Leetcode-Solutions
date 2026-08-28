@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0180-consecutive-numbers](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0180-consecutive-numbers) |
 | [0610-triangle-judgement](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0610-triangle-judgement) |
 | [1789-primary-department-for-each-employee](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1789-primary-department-for-each-employee) |
 <!---LeetCode Topics End-->
