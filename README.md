@@ -58,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
+## Database
+|  |
+| ------- |
+| [1789-primary-department-for-each-employee](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1789-primary-department-for-each-employee) |
 <!---LeetCode Topics End-->
