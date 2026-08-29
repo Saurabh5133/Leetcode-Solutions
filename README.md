@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0180-consecutive-numbers) |
+| [0550-game-play-analysis-iv](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0550-game-play-analysis-iv) |
 | [0610-triangle-judgement](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0610-triangle-judgement) |
 | [1164-product-price-at-a-given-date](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1164-product-price-at-a-given-date) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1204-last-person-to-fit-in-the-bus) |
