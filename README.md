@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1527-patients-with-a-condition](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1667-fix-names-in-a-table) |
+| [1729-find-followers-count](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1729-find-followers-count) |
 | [1789-primary-department-for-each-employee](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1789-primary-department-for-each-employee) |
 | [1907-count-salary-categories](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1907-count-salary-categories) |
 ## Linked List
