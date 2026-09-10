@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0611-valid-triangle-number](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
+| [0695-max-area-of-island](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [2293-min-max-game](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/2293-min-max-game) |
 | [3169-count-days-without-meetings](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/3169-count-days-without-meetings) |
 ## Dynamic Programming
@@ -104,10 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -124,4 +127,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+## Union-Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
+## Matrix
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
