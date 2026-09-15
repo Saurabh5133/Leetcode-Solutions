@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0127-word-ladder](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0127-word-ladder) |
+| [0344-reverse-string](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1328-break-a-palindrome](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1328-break-a-palindrome) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0611-valid-triangle-number](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 ## Binary Search
 |  |
