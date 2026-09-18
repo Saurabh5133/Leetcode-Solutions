@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+| [0077-combinations](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0077-combinations) |
 ## Union-Find
 |  |
 | ------- |
