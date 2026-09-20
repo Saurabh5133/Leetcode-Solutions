@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
+| [1710-maximum-units-on-a-truck](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2293-min-max-game](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/2293-min-max-game) |
 | [3169-count-days-without-meetings](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/3169-count-days-without-meetings) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [1328-break-a-palindrome](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1328-break-a-palindrome) |
+| [1710-maximum-units-on-a-truck](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 ## Hash Table
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1710-maximum-units-on-a-truck](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [3169-count-days-without-meetings](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/3169-count-days-without-meetings) |
 ## Stack
 |  |
