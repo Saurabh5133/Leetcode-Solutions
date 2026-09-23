@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0441-arranging-coins](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0441-arranging-coins) |
 | [0611-valid-triangle-number](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0441-arranging-coins](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0441-arranging-coins) |
 ## Randomized
 |  |
 | ------- |
