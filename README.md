@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1710-maximum-units-on-a-truck](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
+| [1929-concatenation-of-array](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2293-min-max-game](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/2293-min-max-game) |
 | [3169-count-days-without-meetings](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/3169-count-days-without-meetings) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
+| [1929-concatenation-of-array](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2293-min-max-game](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/2293-min-max-game) |
 ## Two Pointers
 |  |
