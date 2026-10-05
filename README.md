@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1029-two-city-scheduling](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1029-two-city-scheduling) |
 | [1054-distant-barcodes](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1054-distant-barcodes) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0441-arranging-coins](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0441-arranging-coins) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Randomized
 |  |
 | ------- |
