@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0292-nim-game) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0441-arranging-coins](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0441-arranging-coins) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -317,4 +318,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0986-interval-list-intersections) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
