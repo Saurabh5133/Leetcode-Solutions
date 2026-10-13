@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1029-two-city-scheduling](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1029-two-city-scheduling) |
 | [1054-distant-barcodes](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1054-distant-barcodes) |
+| [1207-unique-number-of-occurrences](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0767-reorganize-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1054-distant-barcodes](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1054-distant-barcodes) |
+| [1207-unique-number-of-occurrences](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1400-construct-k-palindrome-strings](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1400-construct-k-palindrome-strings) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## String
