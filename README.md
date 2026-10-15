@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0767-reorganize-string](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0767-reorganize-string) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1328-break-a-palindrome](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1328-break-a-palindrome) |
 | [1400-construct-k-palindrome-strings](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1400-construct-k-palindrome-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Simulation
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0441-arranging-coins) |
 | [0611-valid-triangle-number](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Sorting
 |  |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Graph Theory
 |  |
