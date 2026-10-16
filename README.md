@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0870-advantage-shuffle](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0870-advantage-shuffle) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0682-baseball-game](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
