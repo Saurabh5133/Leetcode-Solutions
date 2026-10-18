@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0389-find-the-difference](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0525-contiguous-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0127-word-ladder](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0344-reverse-string](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0767-reorganize-string](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0767-reorganize-string) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0611-valid-triangle-number](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0767-reorganize-string](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0767-reorganize-string) |
@@ -397,4 +400,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1122-relative-sort-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
