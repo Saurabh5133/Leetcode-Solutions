@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0705-design-hashset](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0767-reorganize-string](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0767-reorganize-string) |
+| [0791-custom-sort-string](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0791-custom-sort-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1054-distant-barcodes](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1054-distant-barcodes) |
 | [1122-relative-sort-array](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1122-relative-sort-array) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0767-reorganize-string](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0767-reorganize-string) |
+| [0791-custom-sort-string](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0791-custom-sort-string) |
 | [0844-backspace-string-compare](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0611-valid-triangle-number](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0767-reorganize-string](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0767-reorganize-string) |
+| [0791-custom-sort-string](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0791-custom-sort-string) |
 | [0870-advantage-shuffle](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
