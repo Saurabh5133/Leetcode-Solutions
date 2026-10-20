@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0986-interval-list-intersections) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1029-two-city-scheduling](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1029-two-city-scheduling) |
+| [1051-height-checker](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1051-height-checker) |
 | [1054-distant-barcodes](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1054-distant-barcodes) |
 | [1122-relative-sort-array](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1029-two-city-scheduling](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1029-two-city-scheduling) |
+| [1051-height-checker](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1051-height-checker) |
 | [1054-distant-barcodes](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1054-distant-barcodes) |
 | [1122-relative-sort-array](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1122-relative-sort-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1122-relative-sort-array) |
 ## Quicksort
 |  |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bubble Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1122-relative-sort-array) |
 ## Bit Manipulation
 |  |
