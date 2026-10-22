@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0705-design-hashset](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0870-advantage-shuffle](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0682-baseball-game](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
