@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0196-delete-duplicate-emails) |
+| [0511-game-play-analysis-i](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0511-game-play-analysis-i) |
 | [0550-game-play-analysis-iv](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0550-game-play-analysis-iv) |
 | [0596-classes-with-at-least-5-students](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0596-classes-with-at-least-5-students) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
