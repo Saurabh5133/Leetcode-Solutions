@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0310-minimum-height-trees) |
+| [0684-redundant-connection](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
 ## Breadth-First Search
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0310-minimum-height-trees) |
 | [0542-01-matrix](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0542-01-matrix) |
+| [0684-redundant-connection](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
 ## Binary Tree
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0310-minimum-height-trees) |
+| [0684-redundant-connection](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [0841-keys-and-rooms](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
 | [1791-find-center-of-star-graph](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1791-find-center-of-star-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
