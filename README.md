@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1710-maximum-units-on-a-truck](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1817-finding-the-users-active-minutes](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1817-finding-the-users-active-minutes) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 ## Sorting
 |  |
 | ------- |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1054-distant-barcodes](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1054-distant-barcodes) |
 | [1122-relative-sort-array](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1122-relative-sort-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1710-maximum-units-on-a-truck](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [3169-count-days-without-meetings](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/3169-count-days-without-meetings) |
 ## Stack
