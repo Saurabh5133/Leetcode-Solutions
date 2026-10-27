@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-finding-the-users-active-minutes](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1817-finding-the-users-active-minutes) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1929-concatenation-of-array](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
+| [2090-k-radius-subarray-averages](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/2090-k-radius-subarray-averages) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2293-min-max-game](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/2293-min-max-game) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2090-k-radius-subarray-averages](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/2090-k-radius-subarray-averages) |
 ## Simulation
 |  |
 | ------- |
