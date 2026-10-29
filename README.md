@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0610-triangle-judgement](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0610-triangle-judgement) |
 | [0626-exchange-seats](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0626-exchange-seats) |
 | [1164-product-price-at-a-given-date](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1164-product-price-at-a-given-date) |
+| [1179-reformat-department-table](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1179-reformat-department-table) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1393-capital-gainloss](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1393-capital-gainloss) |
