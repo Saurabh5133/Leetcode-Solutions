@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1393-capital-gainloss](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1393-capital-gainloss) |
 | [1484-group-sold-products-by-the-date](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1484-group-sold-products-by-the-date) |
 | [1527-patients-with-a-condition](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1527-patients-with-a-condition) |
+| [1587-bank-account-summary-ii](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1587-bank-account-summary-ii) |
 | [1667-fix-names-in-a-table](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1667-fix-names-in-a-table) |
 | [1729-find-followers-count](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1729-find-followers-count) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1741-find-total-time-spent-by-each-employee) |
