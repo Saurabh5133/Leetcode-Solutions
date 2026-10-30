@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0414-third-maximum-number](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
+| [0523-continuous-subarray-sum](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0389-find-the-difference](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0523-continuous-subarray-sum](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0525-contiguous-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0705-design-hashset](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0705-design-hashset) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0292-nim-game) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0441-arranging-coins](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0441-arranging-coins) |
+| [0523-continuous-subarray-sum](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Randomized
@@ -449,4 +453,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0389-find-the-difference) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
