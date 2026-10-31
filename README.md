@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0608-tree-node](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0608-tree-node) |
 | [0610-triangle-judgement](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0610-triangle-judgement) |
 | [0626-exchange-seats](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0626-exchange-seats) |
+| [0627-swap-sex-of-employees](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0627-swap-sex-of-employees) |
 | [1164-product-price-at-a-given-date](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1164-product-price-at-a-given-date) |
 | [1179-reformat-department-table](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1179-reformat-department-table) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1204-last-person-to-fit-in-the-bus) |
