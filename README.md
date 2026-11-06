@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
+| [0845-longest-mountain-in-array](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0845-longest-mountain-in-array) |
 | [0846-hand-of-straights](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
 | [0870-advantage-shuffle](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0542-01-matrix](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0542-01-matrix) |
+| [0845-longest-mountain-in-array](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0845-longest-mountain-in-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Greedy
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0844-backspace-string-compare](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
+| [0845-longest-mountain-in-array](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0845-longest-mountain-in-array) |
 | [0870-advantage-shuffle](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
@@ -474,4 +477,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Enumeration
+|  |
+| ------- |
+| [0845-longest-mountain-in-array](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0845-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
