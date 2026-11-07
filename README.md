@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0705-design-hashset](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0705-design-hashset) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0525-contiguous-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
+| [0645-set-mismatch](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0767-reorganize-string](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0791-custom-sort-string) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0611-valid-triangle-number](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
+| [0645-set-mismatch](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0767-reorganize-string](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0791-custom-sort-string) |
 | [0846-hand-of-straights](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
@@ -471,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 ## Pigeonhole Principle
 |  |
 | ------- |
