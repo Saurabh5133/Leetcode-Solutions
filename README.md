@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0310-minimum-height-trees) |
+| [0386-lexicographical-numbers](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0386-lexicographical-numbers) |
 | [0684-redundant-connection](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
@@ -508,4 +509,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
