@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1789-primary-department-for-each-employee](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1789-primary-department-for-each-employee) |
 | [1873-calculate-special-bonus](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1873-calculate-special-bonus) |
 | [1907-count-salary-categories](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1907-count-salary-categories) |
+| [1965-employees-with-missing-information](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1965-employees-with-missing-information) |
 | [3220-odd-and-even-transactions](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/3220-odd-and-even-transactions) |
 ## Linked List
 |  |
