@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0146-lru-cache](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0146-lru-cache) |
+| [0187-repeated-dna-sequences](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0127-word-ladder](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0127-word-ladder) |
+| [0187-repeated-dna-sequences](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -407,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0705-design-hashset](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0705-design-hashset) |
 ## Timsort
@@ -486,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0287-find-the-duplicate-number](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0645-set-mismatch) |
@@ -514,4 +519,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0386-lexicographical-numbers) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
