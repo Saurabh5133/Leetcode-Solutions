@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0200-number-of-islands](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0228-summary-ranges) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0310-minimum-height-trees) |
 | [0386-lexicographical-numbers](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0386-lexicographical-numbers) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0127-word-ladder) |
+| [0200-number-of-islands](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0310-minimum-height-trees) |
 | [0542-01-matrix](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0542-01-matrix) |
@@ -348,11 +351,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 ## Prefix Sum
