@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0414-third-maximum-number](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0523-continuous-subarray-sum](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0542-01-matrix) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0435-non-overlapping-intervals](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0845-longest-mountain-in-array](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0845-longest-mountain-in-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0134-gas-station) |
 | [0334-increasing-triplet-subsequence](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0767-reorganize-string](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0767-reorganize-string) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0611-valid-triangle-number](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0767-reorganize-string](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0767-reorganize-string) |
