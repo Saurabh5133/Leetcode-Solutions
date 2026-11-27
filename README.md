@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0845-longest-mountain-in-array](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0845-longest-mountain-in-array) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Greedy
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [1029-two-city-scheduling](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1029-two-city-scheduling) |
 | [1054-distant-barcodes](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1054-distant-barcodes) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1328-break-a-palindrome](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1328-break-a-palindrome) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1400-construct-k-palindrome-strings](https://github.com/Saurabh5133/Leetcode-Solutions/tree/master/1400-construct-k-palindrome-strings) |
